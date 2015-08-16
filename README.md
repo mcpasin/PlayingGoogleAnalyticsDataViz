@@ -1,5 +1,5 @@
 # PlayingGoogleAnalyticsDataViz
-Packing a couple of inspiring Google Analytics visualizations within a *R Shiny Dashboard*.
+Packing a couple of inspiring Google Analytics visualizations within a **R Shiny Dashboard**.
 
 I am sharing some examples of visualization I was playing with recently, using Google Analytics data. All visualizations are made with R and packed together in a Shiny Dashboard.
 
