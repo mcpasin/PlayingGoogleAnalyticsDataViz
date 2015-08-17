@@ -17,4 +17,6 @@ I am planning to **add new inspiring visualizations** not currently available in
 
 For the dasboard source code check out the *app.R* file.
 
-To get more info check out this post:
+To get more info check out this post: http://www.analyticsforfun.com/2015/08/playing-with-r-shiny-dashboard-and.html
+
+Note: I am having issues pushing the entire project from Rstudio to GitHub so the R environment is not available yet. Will hope to load it soon.
